@@ -17,3 +17,4 @@ adatbázis változtatás
 minden versenyhez egy újság/cikk
 az oldal tetején egy carousel a legfrissebb eredményekkel
 html template a cikkhez
+trello
