@@ -1,6 +1,0 @@
-eredmenyek: feature, bool
-		alapertelmezett false
-		feltöltéskor checkbox
-		amelyiknel be van pipálva az megy ki a carouselbe
-
-datum alapjan az 5 legfrisebb cikk jelenjen meg a carouselbe: cím, rovid leiras
